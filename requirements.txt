@@ -1,0 +1,8 @@
+sidrapy
+pysus
+pandas
+
+sqlalchemy
+pymysql
+cryptography
+python-dotenv
