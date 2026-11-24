@@ -17,7 +17,7 @@ Você vai precisar de `git` e `docker`.
 1. Clone o repositório e acesse a pasta dele na sua máquina
 
 ```sh
-git clone
+git clone https://github.com/IDENTIFICA-ERECHIM/identifica-etl.git
 ```
 
 2. Configure o `.env` com base no `.env.example`
